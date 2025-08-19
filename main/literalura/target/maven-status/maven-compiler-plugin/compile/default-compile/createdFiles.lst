@@ -1,0 +1,9 @@
+br\com\aluracursos\literalura\LiteraluraApplication.class
+br\com\aluracursos\literalura\dto\DadosLivroDTO.class
+br\com\aluracursos\literalura\repository\LivroRepository.class
+br\com\aluracursos\literalura\dto\DadosAutorDTO.class
+br\com\aluracursos\literalura\model\Autor.class
+br\com\aluracursos\literalura\model\Livro.class
+br\com\aluracursos\literalura\service\LivroService.class
+br\com\aluracursos\literalura\dto\ResultadoBuscaDTO.class
+br\com\aluracursos\literalura\repository\AutorRepository.class
